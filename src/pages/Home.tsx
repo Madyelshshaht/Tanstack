@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Row, Col } from "react-bootstrap";
 import PostList from "../components/PostList";
-import PostFilter from "../components/Postfilter";
+import PostFilter from "../components/PostFilter";
 import { PoststatusType } from "../types";
 import SerachQuery from "../components/SerachQuery";
 
