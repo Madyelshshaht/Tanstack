@@ -13,7 +13,7 @@ import Home from "./pages/Home";
 import Create from "./pages/Create";
 import Info from "./pages/Info";
 
-const basename = "/vite-deploy/";
+const basename = "/Tanstack/";
 
 const router = createBrowserRouter([
   {
